@@ -16,13 +16,10 @@ void draw(){
 }
 String line="hello";
 void keyPressed(){
-  if(key>='A' && key<='Z'){
-    line += key;
-  }
-  if(key>='a' && key<='z'){
-    line += key;
-  }
+  if(key>='A' && key<='Z') line += key;
+  if(key>='a' && key<='z') line += key;
   if(key==' ') line+=key;
+  
   if(keyCode==BACKSPACE && line.length()>0) line = line.substring(0, line.length()-1);
   if(keyCode==ENTER){
     tts.speak(line);
