@@ -19,9 +19,13 @@ void setup() {
   }
 }
 int now=0, now2=0;
-boolean bShowAns=false, bWrong=false;
+boolean bShowAns=false, bWrong=false, finished=false;
 String line="";
 void draw() {
+  if(finished){
+    text("比賽完畢,結束", width/2,height/2);
+    return;
+  }
   background(0);
   fill(255);
   now=More[now2];
@@ -54,6 +58,7 @@ void keyPressed() {
     }
   } else if (key==ENTER && bShowAns==true) {
     bShowAns=false;
+    if(now2>=Q.length-1) finished=true;
     now2 = (now2+1)%Q.length;
     line="";
     bWrong=false;
