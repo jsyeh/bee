@@ -1,0 +1,2123 @@
+1,people,人們
+2,person,個人
+3,thing,東西
+4,girl,女孩
+5,man,男人
+6,woman,女人
+7,family,家庭 / 家人
+8,father,父親 / 爸爸
+9,mother,媽媽
+10,brother,兄弟
+11,sister,姊妹
+12,son,兒子
+13,daughter,女兒
+14,parent,雙親之一
+15,grand parent,祖父母 / 外祖父母 (單數)
+16,baby,嬰兒
+17,child,小孩
+18,husband,丈夫
+19,wife,妻子
+20,uncle,舅舅、叔叔、伯父
+21,aunt,舅媽、嬸 嬸、伯母
+22,cousin,表 / 堂兄 弟姐妹
+23,friend,朋友
+24,neighbor,鄰居
+25,every,每一個
+26,each,每一個(強調)
+27,everyone,每個人 / 大家
+28,someone,某人(s......)
+29,anyone,任何人(a.....)
+30,nobody,沒有人
+31,foreigner,外國人
+32,foreign,(adj) 外國的
+33,fine,安好的
+34,glad,高興的
+35,mad,瘋狂的(m..)
+36,crazy,瘋狂的
+37,angry,生氣的
+38,mad,生氣的(m..)
+39,happy,快樂的
+40,afraid,害怕
+41,scared,害怕的
+42,scary,可怕的 嚇人的
+43,tired,厭倦的
+44,bored,感到厭煩的 無聊的
+45,boring,乏味的 無趣的
+46,excite,(v) 使興奮
+47,excited,感到興奮的
+48,exciting,令人興奮的
+49,calm,冷靜沉著 平靜的
+50,nervous,緊張的
+51,relaxed,放鬆的
+52,prepared,(adj) 準備好的
+53,prepare,(v) 準備
+54,surprised,訝異的
+55,sleepy,睏的
+56,shy,害羞的
+57,new,新的
+58,old,老的 舊的
+59,young,年輕的
+60,weak,弱的
+61,strong,強壯的
+62,fat,胖的
+63,thin,薄的 瘦的
+64,thick,厚的
+65,long,長的
+66,short,矮的 短的
+67,tall,高的
+68,high,高的 抽象的
+69,low,低的 低聲的
+70,loud,大聲的
+71,deep,深的
+72,far,遠的
+73,near,在附近
+74,wide,寬的
+75,narrow,窄的
+76,empty,空的
+77,full,充滿的
+78,whole,全部的 / 完整的
+79,enough,足夠的
+80,big,大的
+81,large,大的 多的
+82,small,小的
+83,same,同樣的
+84,different,不同的
+85,difficult,困難的
+86,easy,容易的 輕鬆的
+87,lazy,懶惰的
+88,clean,乾淨的 (v) 清潔
+89,clear,清楚的
+90,dirty,髒的
+91,messy,雜亂的
+92,dark,黑暗的
+93,heavy,重的
+94,light,輕的 / (n) 光
+95,hard,硬的
+96,hard,困難的
+97,soft,軟的
+98,expensive,貴的
+99,cheap,便宜的
+100,free,免費的 / 自由的
+101,left,左邊
+102,right,右方 / 對的
+103,correct,正確的 對的
+104,wrong,錯的
+105,true,真的
+106,false,假的 / 不實的
+107,real,真的
+108,other,其他的
+109,favorite,最喜愛的
+110,ready,準備好的
+111,sorry,抱歉地 / 難過地
+112,sure,確定 當然
+113,quiet,安靜的
+114,noisy,吵鬧的
+115,welcome,歡迎
+116,dangerous,危險的
+117,safe,安全的
+118,great,很棒的 / 偉大的
+119,nice,好的 指 個性
+120,kind,仁慈的 和藹的
+121,selfish,自私的
+122,funny,好笑的 滑稽的
+123,clever,聰明的
+124,smart,聰明的
+125,beautiful,漂亮的
+126,pretty,漂亮的
+127,ugly,醜的
+128,busy,忙碌的
+129,careful,小心的
+130,careless,不小心的
+131,useful,有用的
+132,confident,有信心的
+133,patient, 有耐心的 / (n) 病人
+134,proud,驕傲的 / 得意的
+135,friendly,友善的 親切的
+136,energentic,精力充沛的
+137,comfortable,舒服的
+138,uncomfortable,不舒服的
+139,brave,勇敢的
+140,polite,有禮貌的
+141,helpful,有幫助的
+142,cute,可愛的
+143,important,重要的
+144,possible,有可能的
+145,fair,公平的
+146,honest,誠實的
+147,famous,著名的
+148,lucky,幸運的
+149,own,自己的
+150,poor,窮的 / 可憐的
+151,rich,富有
+152,private,私下的 / 私立的 私下地
+153,special,特別的
+154,way,方式 / 路
+155,popular,受歡迎的
+156,buy bought,買
+157,pay/ paid,付錢
+158,borrow,借入
+159,lend,借出
+160,know,知道
+161,let,讓
+162,ask,詢問 請求
+163,answer,(v)(n) 回 答
+164,laugh,笑 嘲笑
+165,smile, (v)(n) 微笑
+166,teach,教
+167,suggest,建議
+168,suggestion,(n) 建議
+169,bring,帶來
+170,take,帶 搭交通工具
+171,catch ,抓住 趕上
+172,hold,握住 保持
+173,miss,想念
+174,miss,東西不見 錯過
+175,carry,攜帶 搬 運
+176,call,打電話 / 叫
+177,cancel,取消
+178,choose,選擇
+179,allow,允許
+180,agree,同意
+181,belong,屬於
+182,begin,開始(b....)
+183,start,開始(s....)
+184,end,結束
+185,finish,完成 結束
+186,stop,停止 (n) 站牌
+187,continue,繼續
+188,keep,保持 保管 繼續做
+189,help,幫忙
+190,remember,記得
+191,decide,(v) 決定
+192,change,改變 更改 (n) 零錢
+193,recycle,再回收利 用
+194,check,(v) (n) 檢查
+195,find,找尋 發現
+196,break,打破 中斷 / 休息時間
+197,repeat,重複
+198,turn,轉向
+199,return,歸還 返回
+200,move,搬家 移動
+201,pull,拉 / 拖
+202,push,推
+203,sit,坐
+204,stand,站立
+205,jump,跳
+206,pick,撿起 揀選
+207,put,放 穿上
+208,cut,切 剪
+209,give,給予
+210,use,(v) (n) 使用
+211,get,拿 上車 下車 穿衣服
+212,forget,忘記
+213,send,寄送 派遣
+214,pour,倒水
+215,order,點餐 訂購
+216,sound, 聽起來
+217,taste,嚐起來 / (n) 味道
+218,feel,感覺起來
+219,smell,聞 / 嗅
+220,look,看起來 看 尋找
+221,see,看見
+222,watch,(v) 看 (n) 手錶
+223,hear,聽
+224,listen,傾聽
+225,speak,(v) 說(一種語言)
+226,talk,講話
+227,walk,走路
+228,say,說(句子)
+229,tell,講述 告訴
+230,write,寫
+231,read,讀
+232,study,念書(s....)
+233,learn,學習(l....)
+234,practice,(v) (n) 練習
+235,understand,了解
+236,join,參加
+237,share,分享
+238,play,玩 播放
+239,fight,(v)(n) 打鬥
+240,count,(v)(n) 數 計算
+241,win,贏
+242,lose,輸 遺失
+243,hope,(v)(n) 希望
+244,meet,見面 遇見
+245,come,來
+246,go,去
+247,hurry,趕快
+248,excuse,不好意思 (n) 藉口
+249,point,指出 / (n) 重點
+250,tap,輕拍
+251,wake,(v) 起床 喚醒
+252,need,需要
+253,open,打開
+254,close,關閉 / (adj) 靠近
+255,die,死
+256,wait,等待
+257,want,想要
+258,try,嘗試
+259,cry,哭 / 喊叫
+260,shout,喊叫
+261,think,想 思考 (n) 想法
+262,follow,跟隨
+263,guess,(v)(n) 猜
+264,happen,發生
+265,thank,感謝
+266,worry,擔心
+267,save,救 / 節約
+268,set,設置 / 安裝
+269,have,有
+270,do,做 / 助動詞
+271,healthy,健康的
+272,unhealthy,不健康的
+273,ill,生病的
+274,sick,生病的 噁心的
+275,well,恢復健康 好地
+276,illness,疾病
+277,matter,事情
+278,body,身體
+279,part,部份 / 零件
+280,face,臉
+281,skin,皮膚
+282,eye,眼睛
+283,ear,耳朵
+284,mouth,嘴巴
+285,nose,鼻子
+286,hair,頭髮
+287,straight hair, 直髮
+288,curly,捲髮
+289,wavy,波浪捲髮
+290,blond,金髮
+291,haircut,剪髮
+292,shoulder,肩膀
+293,neck,脖子
+294,back,背 背面
+295,front,前面
+296,arm,手臂
+297,elbow,手肘
+298,hands,手
+299,head,頭
+300,finger,手指
+301,leg,腿
+302,knee,膝蓋
+303,foot,腳
+304,toe,腳趾
+305,tooth,牙齒
+306,beard,鬍子 絡腮鬍
+307,fever,發燒
+308,old,感冒 / (adj) 冷的
+309,headache,頭痛
+310,stomachache,胃痛
+311,stomach,胃
+312,hurt,受傷
+313,top,頂端 / 陀螺
+314,bottom,底部
+315,wear,穿戴
+316,clothes,(複數)衣服
+317,size,尺寸
+318,large/medium/small,大/中/小(尺寸)
+319,price,價格
+320,type,(n) 種類 / (v) 打字
+321,kind,(n) 種類
+322,accessories,配件(複數)
+323,costume,戲服
+324,uniform,制服
+325,mask,面具
+326,hat,帽子
+327,cap,棒球帽 蓋子
+328,helmet,安全帽 頭盔
+329,scarf,圍巾
+330,tie,領帶 / (v) 繫上
+331,necklace,項鍊
+332,earrings,耳環(複數)
+333,ring,戒指
+334,bracelet,手環
+335,jewelry,珠寶
+336,glasses,眼鏡
+337,glove,手套
+338,pocket,口袋
+339,wallet,皮夾
+340,zipper,拉鍊
+341,belt,皮帶
+342,dress,洋裝
+343,shirt,襯衫
+344,T-shirtm,T恤
+345,skirt,裙子
+346,towel,毛巾
+347,coat,外套
+348,jacket,夾克
+349,sweater,毛衣
+350,vest,背心
+351,shorts,短褲
+352,pants,褲子
+353,jeans,牛仔褲
+354,underwear,內衣
+355,swimsuit,泳裝
+356,suit,套裝 (v) 使適合
+357,raincoat,雨衣
+358,pair,一對 / 一雙 (p...)
+359,socks,短襪
+360,shoes,鞋子
+361,sneakers,球鞋
+362,boots,靴子
+363,slippers,拖鞋
+364,sandals,涼鞋
+365,umbrella,雨傘
+366,blanket,毯子
+367,cotton,棉花
+368,silk,絲
+369,wash,(v) 清洗
+370,do laundry,洗衣
+371,iron,鐵 / 熨斗 (v) 燙平
+372,occupation,職業
+373,job,工作
+374,teacher,老師
+375,student,學生
+376,doctor,(Dr.) 醫生 / 博士
+377,nurse,護士
+378,clerk,職員
+379,shopkeeper,店員
+380,businessman,商人
+381,painter,畫家 / 油漆工
+382,paint, (v) 畫畫 / 油漆 (n) 顏料
+383,farmer,農夫
+384,farm,農場
+385,designer,設計師
+386,design,(v) (n) 設計
+387,worker,工人 員工
+388,work,(v) 工作
+389,server,服務生(s.....)
+390,waiter,服務生(w.....)
+391,serve,(v) 伺候
+392,service,(n) 服務
+393,singer,歌手
+394,sing,(v) 唱歌
+395,reporter,記者 報告員
+396,report,(v) (n) 報告
+397,writer,作家
+398,driver,司機
+399,baker,烘焙師
+400,bakery,麵包店
+401,cashier,收銀員
+402,actor,演員(男)
+403,act,(v) 演 動作
+404,artist,藝術家
+405,dentist,牙醫
+406,scientist,科學家
+407,musician,音樂家
+408,cook,廚師 / (v) 烹飪
+409,pilot,機長
+410,firefighter,消防隊員
+411,librarian,圖書館員
+412,salesperson,業務員 店員
+413,sale,銷售 / 特價
+414,vet,獸醫
+415,engineer,工程師
+416,housewife,家管 家庭主婦
+417,police officer,警官
+418,player,運動員 / 演奏者
+419,king,國王
+420,queen,皇后
+421,prince,王子
+422,princess,公主
+423,wild,野生的
+424,feed,(v) 餵食
+425,animal,動物
+426,insect,昆蟲
+427,monster,怪獸
+428,dinosaur,恐龍
+429,pet,寵物
+430,cage,籠子
+431,claw,爪
+432,tail,尾巴
+433,feather,羽毛
+434,wing,翅膀
+435,ant,螞蟻
+436,bee,蜜蜂
+437,beetle,甲蟲
+438,bug,臭蟲 電腦病毒
+439,caterpillar,毛毛蟲
+440,butterfly,蝴蝶
+441,fly,蒼蠅 (v) 飛
+442,spider,蜘蛛
+443,ladybug,瓢蟲
+444,bat,蝙蝠 / 球棒
+445,snail,蝸牛
+446,snake,蛇
+447,lizard,蜥蜴
+448,frog,青蛙
+449,tiger,老虎
+450,lion,獅子
+451,elephant,大象
+452,bear,熊
+453,bird,鳥
+454,ostrich,鴕鳥
+455,parrot,鸚鵡
+456,hen,母雞
+457,duck,鴨子
+458,goose,鵝
+459,turkey,火雞
+460,penguin,企鵝
+461,marine animal,海洋動物
+462,fish,魚(單複數同型)
+463,squid,魷魚 烏賊
+464,octopus,章魚
+465,crab,螃蟹
+466,turtle,海龜
+467,seal,海豹
+468,eel,鰻魚
+469,shark,鯊魚
+470,whale,鯨魚
+471,dolphin,海豚
+472,panda,貓熊
+473,koala,無尾熊
+474,monkey,猴子
+475,lamb,小羊 羔羊
+476,sheep,綿羊(單複數同型)
+477,goat,山羊
+478,cow,母牛
+479,rabbit,兔子
+480,kangaroo,袋鼠
+481,fox,狐狸
+482,deer,鹿
+483,zebra,斑馬
+484,camel,駱駝
+485,giraffe,長頸鹿
+486,horse,馬
+487,donkey,驢子
+488,wolf,狼
+489,mouse,老鼠 電腦滑鼠
+490,food,食物
+491,seafood,海鮮
+492,fresh,(adj) 新鮮的
+493,bake,(v) 烘焙
+494,grill,( v) 炙烤
+495,barbecue,(v)(n) 烤肉
+496,fry,(v) 油炸
+497,salt,鹽
+498,sugar,糖
+499,sweet,甜美的
+500,spicy,辣的
+501,fruit,水果
+502,vegetable,蔬菜
+503,piece,一片
+504,eat,(v) 吃
+505,drink,(v) 喝 / (n) 飲料
+506,menu,菜單
+507,dish,菜餚 主菜 / 盤子
+508,dessert,甜點
+509,meat,肉
+510,beef,牛肉
+511,steak,牛排
+512,pork,豬肉
+513,chicken,雞肉 小雞
+514,meal,一餐
+515,breakfast,早餐
+516,lunch,午餐
+517,dinner,晚餐
+518,rice,米飯
+519,sushi,壽司(不可數)
+520,bread,麵包
+521,sandwich,三明治
+522,ham,火腿
+523,hamburger,漢堡
+524,hot dog,熱狗
+525,French fries,炸薯條
+526,curry,咖哩
+527,noodle,麵條
+528,pasta,義大利麵 (p....)
+529,spaghetti,義大利麵(直麵) (s........)
+530,pizza,披薩
+531,egg,蛋
+532,corn,玉米
+533,popcorn,爆米花
+534,pumpkin,南瓜
+535,potato,馬鈴薯
+536,nut,堅果 / 瘋子
+537,cheese,起司 乳酪
+538,salad,沙拉
+539,cabbage,高麗菜 包心菜
+540,pepper,甜椒 / 胡椒粉
+541,onion,洋蔥
+542,carrot,紅蘿蔔
+543,peach,桃子
+544,pear,西洋梨
+545,lemon,檸檬
+546,orange,柳橙
+547,banana,香蕉
+548,melon,甜瓜
+549,watermelon,西瓜
+550,mango,芒果
+551,tomato,蕃茄
+552,papaya,木瓜
+553,pineapple,鳳梨
+554,guava,芭樂
+555,cherry,櫻桃
+556,strawberry,草莓
+557,grapes,葡萄(複數)
+558,jam,果醬
+559,coconut,椰子
+560,juice,果汁
+561,milk,牛奶
+562,soda,蘇打 汽水
+563,cola,可樂
+564,lemonade,檸檬水
+565,coffee,咖啡
+566,tea,茶
+567,water,水
+568,soup,湯
+569,snack,點心 小吃
+570,cake,蛋糕
+571,cupcake,杯子蛋糕
+572,pie,派 / 餡餅
+573,yogurt,優格
+574,candy,糖果
+575,chocolate,巧克力
+576,cookie,餅乾
+577,peanut,花生
+578,honey,蜂蜜 / 心愛的人
+579,potato chips,洋芋片
+580,ice,冰
+581,ice cream,冰淇淋
+582,gum,口香糖
+583,omelet,蛋包 烘蛋
+584,butter,奶油
+585,picnic,野餐
+586,fork,叉子
+587,chopsticks,筷子
+588,knife,刀子
+589,spoon,湯匙
+590,cup,杯子
+591,glass,玻璃杯 玻璃(不可數)
+592,straw,吸管 / 稻草
+593,bowl,碗
+594,plate,盤子
+595,jar,罐子
+596,bottle,瓶子
+597,pan,平底炒鍋
+598,pot,湯鍋
+599,refrigerator,冰箱
+600,stove,爐子
+601,oven,烤箱
+602,lunchbox,餐盒 便當
+603,hungry,飢餓的
+604,thirsty,口渴的
+605,yummy,好吃的
+606,delicious,美味的
+607,school,學校
+608,respect,(v)(n) 尊敬
+609,library,圖書館
+610,playground,操場 / 運動場
+611,ground,地面
+612,bag,包包 袋子
+613,pencil,鉛筆
+614,pencil sharpener,削鉛筆機
+615,sharp,尖銳的
+616,notebook,筆記本
+617,workbook,習作本
+618,textbook,教科書
+619,homework,家庭作業
+620,tape,膠帶
+621,paper,紙
+622,marker,麥克筆
+623,mark,(v) 做記號
+624,ruler,尺
+625,rule,(n) 規則 (v) 統治
+626,eraser,橡皮擦
+627,ink,墨汁 墨水
+628,scissors,剪刀
+629,glue,膠水
+630,glue stick,口紅膠
+631,string,線 / 弦
+632,chalk,粉筆
+633,blackboard,黑板
+634,dictionary,字典
+635,calculator,計算機
+636,stapler,訂書機
+637,bookshelf,書櫃
+638,magazine,雜誌
+639,folder,檔案夾
+640,poster,海報
+641,paint brush,畫筆
+642,backpack,背包
+643,computer,電腦
+644,Internet,網際網路
+645,cheat,(v) 作弊 欺騙
+646,pass,(v)(n) 通過 / 及格
+647,grade,年級 (v) 打分數
+648,score,(v)(n) 分數 得分
+649,quiz,小考
+650,test,(v)(n) 考試
+651,mistake,錯誤
+652,secret,秘密
+653,prize,獎品
+654,list,表 名單 清單 (v) 列舉
+655,question,問題
+656,No problem!,沒問題
+657,idea,主意
+658,introduce,(v) 介紹
+659,introduction,(n) 介紹
+660,bell,鈴鐺
+661,class,班級 課程 階級
+662,classroom,教室
+663,classmate,同班同學
+664,lesson,(n) 課程 / (n) 教訓
+665,review,(v)(n) 複習
+666,clay,黏土
+667,metal,金屬
+668,stone,石頭
+669,vocabulary,字彙 (集合名詞 不可數)
+670,word,字
+671,alphabet,字母 (集合名詞 不可數)
+672,letter,個別字母 / 信
+673,sentence,句子
+674,for example,舉例來說
+675,email,電子郵件
+676,page,頁
+677,story,故事 層(指大樓)
+678,picture,圖片 / 照片
+679,subject,科目 主題
+680,math,數學
+681,science,自然科學
+682,English,英語
+683,language,語言
+684,music,音樂
+685,art,美術
+686,PE,體育課
+687,social studies,社會課
+688,social,社會的
+689,group,群 / 組
+690,team,隊
+691,color,顏色
+692,colorful,鮮豔的 多采多姿
+693,plain,樸素的 素色的 原味的
+694,blue,(adj) 藍色的
+695,white,(adj) 白色的
+696,brown,(adj) 棕色的
+697,pink,(adj) 粉紅色的
+698,red,(adj) 紅色的
+699,black,(adj) 黑色的
+700,or ange,(adj) 橘色的
+701,purple,(adj) 紫色的
+702,green,(adj) 綠色的
+703,yellow,(adj) 黃色的
+704,gray,(adj) 灰色的
+705,shape,形狀
+706,circle,(n) 圓形
+707,round,(adj) 圓的
+708,square,(n) (adj) 正方形
+709,heart,(n) 心型 / 心臟
+710,triangle,(n) 三角形
+711,rectangle,(n) 長方形
+712,diamond,(n) 菱形 / 鑽石
+713,oval,(n) 橢圓形
+714,star,(n) 星形
+715,location,位置 地點
+716,local,(adj) 本地的
+717,place,地方
+718,entrance,入口
+719,enter,(v) 進入
+720,exit,出口 / 逃生門
+721,leave,(v) 離開
+722,address,地址 / (v) 演 講
+723,live,(v) 住
+724,life,(n) 生活 / 人生
+725,stay,(v) 停留
+726,igloo,冰屋
+727,cave,洞穴
+728,restaurant,餐廳 餐館
+729,hotel,旅館
+730,market,市場
+731,supermarket,超級市場
+732,museum,博物館
+733,touch,(v) 碰觸
+734,store,商店
+735,bookstore,書店
+736,department store,百貨公司
+737,shop,商店
+738,hospital,醫院
+739,clinic,診所
+740,park,公園 /(v) 停放(車)
+741,zoo,動物園
+742,bank,銀行
+743,bakery,麵包店
+744,pharmacy,藥局
+745,beach,沙灘
+746,aquarium,水族館
+747,office,辦公室
+748,officer,職員 / 官員
+749,post office,郵局
+750,hair salon,髮廊 美容院
+751,swimming pool,(n) 游泳池
+752,movie theater,電影院
+753,station,車站
+754,restroom,廁所
+755,building,大樓 建築物
+756,floor,地板 / 樓層
+757,stairs,樓梯
+758,upstairs,樓上
+759,downstairs,樓下
+760,bridge,橋
+761,stand,攤位
+762,street,街道
+763,road,路
+764,wall,牆壁
+765,house,房子
+766,home,家
+767,garden,花園
+768,room,房間
+769,bedroom,臥室
+770,bathroom,浴室
+771,toilet,廁所
+772,take a bath,(v) 洗澡
+773,shower,(n) 淋浴
+774,living room,客廳
+775,dining room,餐廳(家裡)
+776,kitchen,廚房
+777,desk,書桌
+778,chair,椅子
+779,table,桌子
+780,window,窗戶
+781,door,門
+782,sofa,沙發
+783,telephone,電話
+784,cell phone,手機
+785,television,電視
+786,video,錄影帶
+787,radio,收音機
+788,sink,水槽 (v) 下沉
+789,soap,肥皂
+790,mirror,鏡子
+791,bathtub,浴缸
+792,clean,(v) 清潔 / (adj) 乾淨的
+793,tidy,(v) 整理 / (adj) 整齊的
+794,toothbrush,牙刷
+795,brush,(v)(n) 刷
+796,comb,(n) 梳子 (v) 梳理
+797,fan,電扇 扇子 粉絲
+798,battery,電池
+799,key,鑰匙
+800,lamp,檯燈
+801,light,燈光
+802,lighter,打火機
+803,garbage,垃圾
+804,trash,垃圾
+805,housework,家事
+806,activity,活動
+807,habit,習慣
+808,hobby,嗜好
+809,interest,興趣
+810,dream,(v)(n) 夢
+811,wish,祝福 / 希望
+812,enjoy,(v) 享受
+813,like,喜歡
+814,interested,感到有興趣的
+815,interesting,有趣的
+816,fun,樂趣
+817,game,遊戲 / 比賽
+818,fly a kite,放風箏
+819,ball,球
+820,puzzle,拼圖
+821,doll,洋娃娃
+822,birthday,生日
+823,drum,小鼓
+824,band,樂團
+825,gun,槍
+826,robot,機器人
+827,toy,玩具
+828,violin,小提琴
+829,piano,鋼琴
+830,tennis,網球
+831,table tennis,桌球
+832,soccer,足球
+833,football,橄欖球
+834,basketball,籃球
+835,baseball,棒球
+836,volleyball,排球
+837,golf,高爾夫球
+838,bowling,保齡球
+839,newspaper,報紙
+840,news,新聞
+841,shopping,購物
+842,camera,照相機
+843,photograph,照片
+844,sculpture,雕塑
+845,painting,畫作
+846,skateboard,滑板
+847,board,木板
+848,ski,(v) 滑雪
+849,model,模型 模範 模特兒
+850,magic,魔術 變魔術
+851,comic,漫畫
+852,cards,撲克牌
+853,card,卡片
+854,gift,禮物
+855,present,禮物 / 現在
+856,future,未來
+857,past,過去
+858,exercise,(v)(n) 運動 / 練習
+859,sport,運動
+860,plan,計畫
+861,draw,(v) 畫圖
+862,spell,(v) 拼字
+863,fix,(v) 修理
+864,make,(v) 製造 做 使
+865,collect,(v) 收集
+866,stamp,郵票 印章 踏腳
+867,pack,(v) 整理打包
+868,throw,(v) 丟出球
+869,climb,(v) 爬
+870,swim,(v) 游泳
+871,sleep,(v) 睡覺
+872,hit,(v) 打擊
+873,run,(v) 跑步
+874,hike,(v) 健行 / 遠足
+875,dive,(v) 跳水
+876,surf,衝浪
+877,dance,跳舞
+878,act,(v) 演出
+879,play,(n) 戲劇
+880,camp,(v)(n) 露營
+881,build,(v) 建造
+882,hunt,打獵
+883,hunter,獵人
+884,tent,帳篷
+885,flashlight,手電筒
+886,break,(n)(v) 休息
+887,knit,(v) 編織
+888,surprise,(n) 驚喜 驚訝 震驚
+889,money,錢
+890,dollar,元
+891,spend,花費 (s....)
+892,cost,花費 (c...)
+893,parade,遊行
+894,show,(v)(n) 表演 展示
+895,movie,電影
+896,party,派對
+897,line,排隊
+898,line,線條  行列
+899,ticket,車票 門票
+900,marble,彈珠
+901,net,網子
+902,race,賽跑
+903,winner,贏家
+904,loser,失敗者
+905,world,世界
+906,sun,太陽
+907,moon,月亮
+908,Earth,地球
+909,star,星星
+910,sky,天空
+911,space,外太空 / 空間
+912,center,中心
+913,map,地圖
+914,Asia,亞洲
+915,Africa,非洲
+916,Australia,澳洲
+917,America,美洲
+918,American,美國人
+919,Europe,歐洲
+920,Antarctica,南極洲
+921,country,國家
+922,China,中國
+923,Chinese,中文
+924,Taiwan,台灣
+925,Japan,日本
+926,Korea,韓國
+927,Brazil,巴西
+928,Canada,加拿大
+929,Egypt,埃及
+930,Turkey,土耳其
+931,Italy,義大利
+932,direction,方向
+933,east,東
+934,west,西
+935,south,南
+936,north,北
+937,air,空氣
+938,nature,大自然
+939,land,陸地
+940,hill,小山丘
+941,mountain,山
+942,desert,沙漠
+943,lake,湖
+944,pond,池塘
+945,ocean,海洋
+946,sea,海
+947,island,島嶼
+948,river,河流
+949,woods,樹林
+950,forest,森林
+951,rainforest,雨林
+952,jungle,叢林
+953,grass,草
+954,puddle,水坑
+955,rock,岩石 搖滾樂
+956,sand,沙
+957,weather,天氣
+958,sunny,晴朗的
+959,cloudy,多雲的 陰天的
+960,cloud,雲
+961,windy,刮風的
+962,wind,風
+963,rainy,下雨的
+964,rain,雨
+965,snowy,下雪的
+966,snow,雪
+967,stormy,暴風雨的
+968,storm,暴風雨
+969,typhoon,颱風
+970,warm,溫暖的
+971,hot,熱的
+972,cool,涼爽的；酷帥的
+973,cold,冷的
+974,wet,濕的
+975,dry,乾的
+976,plant,植物
+977,flower,花
+978,tree,樹
+979,leaf,樹葉
+980,seed,種子
+981,root,根
+982,fire,火
+983,season,季節
+984,spring,春
+985,summer,夏
+986,fall,秋
+987,winter,冬
+988,number,數字
+989,age,年齡
+990,add,(v) 加
+991,zero,零
+992,one,1
+993,two,2
+994,three,3
+995,four,4
+996,five,5
+997,six,6
+998,seven,7
+999,eight,8
+1000,nine,9
+1001,ten,10
+1002,eleven,11
+1003,twelve,12
+1004,thirteen,13
+1005,fourteen,14
+1006,fifteen,15
+1007,sixteen,16
+1008,seventeen,17
+1009,eighteen,18
+1010,nineteen,19
+1011,twenty,20
+1012,thirty,30
+1013,forty,40
+1014,fifty,50
+1015,sixty,60
+1016,seventy,70
+1017,eighty,80
+1018,ninety,90
+1019,hundred,百
+1020,thousand,千
+1021,million,百萬
+1022,several,幾個的
+1023,watch,錶 / (v) 看
+1024,clock,時鐘
+1025,o'clock,點鐘
+1026,half,一半
+1027,quarter,四分之一 / 25 分錢(美元)
+1028,dozen,一打
+1029,early,早的
+1030,late,遲的 / 最近的
+1031,time,時間
+1032,calendar,月曆 / 行事曆
+1033,day,天
+1034,date,(n) 日期 / (v) 約會
+1035,today,今天
+1036,tomorrow,明天
+1037,yesterday,昨天
+1038,morning,早上
+1039,noon,中午
+1040,afternoon,下午
+1041,evening,傍晚
+1042,ni ght,夜晚
+1043,tonight,今晚
+1044,overnight,過夜
+1045,weekend,周末
+1046,week,週
+1047,Monday,星期一
+1048,Tuesday,星期二
+1049,Wednesday,星期三
+1050,Thursday,星期四
+1051,Friday,星期五
+1052,Saturday,星期六
+1053,Sunday,星期天
+1054,month,月份
+1055,January,一月
+1056,February,二月
+1057,March,三月
+1058,April,四月
+1059,May,五月
+1060,June,六月
+1061,July,七月
+1062,August,八月
+1063,September,九月
+1064,October,十月
+1065,November,十一月
+1066,December,十二月
+1067,celebrate,(v) 慶祝
+1068,holiday,假日
+1069,festival,節慶 / 慶典
+1070,Christmas,聖誕節
+1071,vacation,假期
+1072,first,第一
+1073,second,第二 / 秒
+1074,third,第三
+1075,fourth,第四
+1076,fifth,第五
+1077,sixth,第六
+1078,seventh,第七
+1079,eighth,第八
+1080,ninth,第九
+1081,tenth,第十
+1082,eleventh,第十一
+1083,twelfth,第十二
+1084,next,下一個的
+1085,last,最後的 / 前一次 的
+1086,another,另一個
+1087,long,長度 長的
+1088,centimeter,公分
+1089,meter,公尺
+1090,kilometer,公里
+1091,weight,重量
+1092,kilogram,公斤
+1093,gram,公克
+1094,year,年
+1095,hour,小時
+1096,ago,以前
+1097,minute,分鐘 片刻
+1098,beginning,(n) 開始
+1099,end,盡頭 結局
+1100,again,再一次 又
+1101,this,這個
+1102,that,那個
+1103,these,這些
+1104,those,那些
+1105,all,全部的
+1106,both,兩者都
+1107,any,任何的
+1108,some,一些
+1109,anything,任何事
+1110,anywhere,任何地方
+1111,something,某件事
+1112,somewhere,某處
+1113,nothing,沒事
+1114,nowhere,沒有任何地方
+1115,everything,每件事
+1116,everywhere,到處
+1117,here,這裡
+1118,there,那裡
+1119,few,(adj) 少許 (+可數名詞)
+1120,little,小的 少的 (+不可數名詞)
+1121,a few,一些 (+可數名詞)
+1122,a little,一些 (+不可數名詞)
+1123,a lot,許多
+1124,many,許多的 (+複數名詞)
+1125,much,大量的 (+不複數名詞)
+1126,very,非常
+1127,more,更多的 (比較級)
+1128,most,大部分 (最高級)
+1129,up,往上
+1130,down,往下
+1131,around,環繞
+1132,beside,在旁邊
+1133,between,在之間
+1134,in,裡面
+1135,by,旁邊 / 藉由
+1136,on,上面
+1137,behind,後面
+1138,under,下面
+1139,over,跨越 / 結束
+1140,through,穿越 / 藉由
+1141,into,進入
+1142,out,出來
+1143,from,從
+1144,about,關於
+1145,across,對面
+1146,near,附近
+1147,far,遠的
+1148,and,以及
+1149,but,但是
+1150,or,或者
+1151,because,因為
+1152,so,所以 / 如此地
+1153,if,如果
+1154,of,...的
+1155,to,向(介係詞)
+1156,for,為了(介係詞)
+1157,with,用(介係詞)
+1158,without,不用(介係詞)
+1159,at,在
+1160,before,之前
+1161,after,之後
+1162,who,誰
+1163,when,何時(連接詞) 當...時
+1164,where,哪裡
+1165,what,什麼
+1166,which,哪一個
+1167,why,為什麼
+1168,how,如何
+1169,whose,誰的
+1170,perhaps,或許
+1171,maybe,或許
+1172,may,可以 可能
+1173,can,會 / 能做 (n) 罐頭
+1174,will,將
+1175,should,應該
+1176,must,必須
+1177,have to,必須
+1178,almost,幾乎
+1179,always,總是 (100%)
+1180,usually,通常 (80%) 通常的
+1181,often,常常 (60%)
+1182,sometimes,有時候 (40%)
+1183,seldom,不常 (20%)
+1184,rarely,很少 (20%)
+1185,never,從不 (0%)
+1186,also,也
+1187,too,太
+1188,as,與 一樣
+1189,soon,很快地 盡快
+1190,ever,曾經
+1191,now,現在
+1192,then,然後
+1193,than,比較
+1194,except,除...之外
+1195,since,自從
+1196,finally,終於 
+1197,final,最後的
+1198,really,真正地
+1199,until,直到
+1200,till,直到
+1201,still,仍然
+1202,though,雖然
+1203,alone,單獨的 / 獨自的
+1204,together,一起
+1205,only,(adj) 唯一的
+1206,away,離開地
+1207,hello,哈囉
+1208,good bye,再見
+1209,a.m.,上午 (....)
+1210,p.m,下午 (....)
+1211,Mr.,先生(縮寫)
+1212,Mrs.,太太(縮寫)
+1213,Miss,小姐(M...)
+1214,MRT,台北捷運
+1215,ROC,中華民國
+1216,USA,美國
+1217,bicycle,腳踏車
+1218,bus,公車
+1219,train,火車
+1220,railway,鐵路(集合名詞)
+1221,subway,地鐵 / 地下道
+1222,boat,小船
+1223,ship,輪船
+1224,ferry,渡船
+1225,canoe,獨木舟
+1226,rocket,火箭
+1227,jeep,吉普車
+1228,truck,卡車
+1229,taxi,計程車
+1230,jet,噴射機
+1231,airplane,飛機
+1232,ride,騎乘
+1233,a boat ride,一趟船
+1234,sail,航行
+1235,drive,駕駛(車)
+1236,city,城市
+1237,country,鄉下 / 國家
+1238,town,市鎮
+1239,downtown,市中心
+1240,side,邊 / 面
+1241,quickly,快快地 (q......)
+1242,quick,快的
+1243,fast,快快地 (f...)
+1244,slowly,慢慢地
+1245,slow,慢的
+1246,traffic,交通
+1247,accident,意外事件
+1248,serious,嚴重的
+1249,arrive,到達
+1250,hotel,旅館
+1251,trip,(n) 旅行
+1252,tour,(n) 一趟旅程
+1253,travel,(v) 旅行
+1254,visit,拜訪
+1255,visitor,訪客
+1256,sign,標誌 / 符號
+1257,mean,(v) 意圖
+1258,meaning,(n) 意義
+1259,fasten my seatbelt,繫我的安全帶
+1260,seat,座位
+1261,able,能夠...的
+1262,above,在...上面
+1263,abroad,在出國
+1264,absent,缺席
+1265,accept,接受
+1266,action,動作
+1267,active,活潑的
+1268,actress,演員(女)
+1269,actually,事實上
+1270,admire,愛慕
+1271,adult,成人
+1272,advertisement,廣告
+1273,advice,忠告 勸告(名詞)
+1274,advise,建議 規勸(動詞)
+1275,affect,影響 / 感染
+1276,against,反對
+1277,ahead,向前的 / 事先的
+1278,aim,(v) 瞄準
+1279,air conditioner,冷氣機
+1280,airlines,航線 航空公司
+1281,airport,機場
+1282,alarm,鬧鐘 / 警鈴
+1283,album,相簿 / 專輯
+1284,alike,相似的
+1285,alive,活著的
+1286,along,沿著
+1287,aloud,大聲地
+1288,already,已經
+1289,altogether,全部 / 合計
+1290,ambulance,救護車
+1291,among,在...(眾多)當中
+1292,amount,總數 / 數量
+1293,ancient,古代的
+1294,angel,天使
+1295,anger,生氣 怒氣
+1296,ankle,腳踝
+1297,apartment,公寓
+1298,apologize,(v) 道歉 認錯
+1299,appear,出現
+1300,appearance,外表
+1301,appreciate,感激 賞識
+1302,area,區域
+1303,argue,爭吵 / 爭辯
+1304,armchair,扶手椅
+1305,army,軍隊
+1306,arrange,安排
+1307,asleep,睡著的
+1308,assistant,助理
+1309,assume,以為 / 假設
+1310,attack,攻擊
+1311,attention,注意 專心力
+1312,available,可用的 有空的
+1313,avoid,(v) 避開 避免
+1314,baby sitter,保母
+1315,backward,反向的
+1316,badminton,羽毛球
+1317,balcony,陽台
+1318,balloon,氣球
+1319,barber,理髮師
+1320,bark,(v) 吠 狗叫
+1321,base,基地 / 基礎
+1322,basement,地下室
+1323,basic,基本的
+1324,basket,籃子
+1325,bathe,(v) 浸 澡
+1326,be,是 (動詞的原形)
+1327,bean,豆類
+1328,beat,(v) 敲打 / (n) 節拍
+1329,beauty,(n) 美人 美麗 
+1330,become,(v) 變成
+1331,beer,啤酒
+1332,beginner,基礎者
+1333,behave,(v) 做出...行為
+1334,believe,(v) 相信
+1335,below,在...之下
+1336,bench,公園長椅
+1337,beyond,超過...之外
+1338,bill,紙鈔 / 帳單
+1339,biology,生物學
+1340,bite,咬
+1341,bitter,苦味的
+1342,blame,責備
+1343,blank,空白的 / 空格
+1344,bless,祝福
+1345,blind,瞎眼的 盲目的
+1346,block,積木 街區
+1347,blood,血液
+1348,blouse,襯衫(女用的)
+1349,blow,吹
+1350,boil,沸騰(動詞)
+1351,bomb,炸彈
+1352,bone,骨頭
+1353,bookcase,書架
+1354,born,出生
+1355,bother,(v) 打擾
+1356,bow,(n) 蝴蝶結 (v) 彎腰鞠躬
+1357,branch,樹枝 / 分店
+1358,brick,磚頭
+1359,bright,明亮的
+1360,broad,寬闊的
+1361,broadcast,廣播
+1362,brunch,早午餐
+1363,bucket,水桶
+1364,buffet,自助餐
+1365,bun,小圓麵包
+1366,bundle,(v) 捆 捲 (n) 一束
+1367,burger,漢堡
+1368,burn,(v) 燃燒
+1369,burst,(v) 爆裂
+1370,business,公事
+1371,button,釦子 / 按鈕
+1372,cable,電纜線 有線電視
+1373,cafeteria,自助食堂
+1374,campus,校園
+1375,cancer,癌症
+1376,candle,蠟燭
+1377,captain,上尉(軍) / 船長
+1378,carpet,地毯
+1379,cartoon,卡通
+1380,case,個案
+1381,cash,現金
+1382,cassette,卡式錄音帶
+1383,castle,城堡
+1384,cause,起因 / 原因
+1385,ceiling,天花板
+1386,cent,分 (美元)
+1387,central,(adj) 中心的
+1388,century,世紀
+1389,cereal,穀類麥片
+1390,certain,肯定的
+1391,chance,機會
+1392,channel,頻道 / 管道
+1393,character,角色 / 性格
+1394,charge,索費 / 負責
+1395,chart,圖表
+1396,chase,(v) 追逐
+1397,cheer,歡呼
+1398,chemistry,化學
+1399,chess,西洋棋
+1400,childhood,童年時期
+1401,childish,幼稚的 / 孩子氣的
+1402,childlike,天真單純的
+1403,chin,下巴
+1404,choice,選擇權
+1405,chubby,胖嘟嘟的
+1406,church,教堂 / 禮拜
+1407,clap,拍手鼓掌
+1408,classical,古典的
+1409,climate,氣候(c......)
+1410,closet,衣櫥
+1411,club,社團
+1412,coach,教練
+1413,coast,海岸 / 沿岸地區
+1414,cockroach,蟑螂
+1415,coin,錢幣
+1416,college,專科學校 / 學院
+1417,command,命令
+1418,comment,評論
+1419,common,常見的
+1420,company,公司 / 陪伴
+1421,compare,比較
+1422,complain,抱怨
+1423,complete,(v) 完成 / (adj) 完全
+1424,concern,相關 / 關注 關心 (人事物)
+1425,confuse,(v) 使...困惑
+1426,congratulation,(n) 祝賀
+1427,consider,考慮到 / 認為
+1428,considerate,(adj) 考慮周到的
+1429,contact lens,隱形眼鏡
+1430,contract,合約
+1431,control,控制 / 掌控
+1432,convenience store,便利商店
+1433,convenient,方便的
+1434,conversation,對談 / 對話
+1435,copy,拷貝
+1436,corner,角落 / 轉角
+1437,couch,沙發
+1438,cough,(v)(n) 咳嗽
+1439,couple,(一)對 (一)雙
+1440,courage,勇氣
+1441,course,過程 / 科目
+1442,court,法院
+1443,cover,(v) 覆蓋 (n) 封面
+1444,cowboy,牛仔
+1445,crayon,蠟筆
+1446,cream,鮮奶油
+1447,create,(v) 創造
+1448,creature,(n) 生物
+1449,credit card,信用卡
+1450,crime,罪 / 罪行 (n) 犯罪
+1451,cross,(v) 越過
+1452,crowd,群眾
+1453,crowded,擁擠的
+1454,cruel,殘忍的
+1455,culture,文化
+1456,cure,(v) 治療
+1457,curious,好奇的
+1458,current,現行的
+1459,curtain,窗簾
+1460,curve,曲線 / 弧線
+1461,custom,習俗 / 海關
+1462,customer,顧客
+1463,daily,日常的
+1464,damage,損失
+1465,danger,(n) 危險
+1466,dawn,黎明
+1467,dead,死的
+1468,deaf,耳聾的
+1469,deal,交易 / 發牌
+1470,dear,親愛的
+1471,death,死亡
+1472,debate,辯論
+1473,decision,(n) 決定
+1474,decorate,(v) 裝潢
+1475,decrease,(v) 減少
+1476,degree,程度 學位
+1477,deliver,(v) 遞送 / 解救
+1478,department,部門 / 系別
+1479,depend,(v) 視...而定 取決於
+1480,describe,(v) 描述
+1481,desire,(v) 想要 (n) 慾望
+1482,detect,(v) 察覺
+1483,develop,(v) 發展
+1484,dial,(v) 撥號 電話
+1485,diary,日記
+1486,diet,(n) 飲食 / 節食
+1487,difference,(n) 差異
+1488,difficulty,(n) 困難
+1489,dig,挖掘
+1490,diligent,勤奮的
+1491,diplomat,外交官
+1492,direct,(v) 指揮 (adj) 直接的
+1493,disappear,消失 / 失蹤
+1494,discover,發現 / 找到
+1495,discuss,(v) 討論
+1496,discussion,(n) 討論
+1497,dishonest,不誠實的
+1498,distance,距離
+1499,distant,有距離的 / 疏離的
+1500,divide,分配... / 除以(數學)
+1501,dizzy,頭暈目眩的
+1502,dodge ball,躲避球
+1503,dot,黑點
+1504,double,雙倍的 / 雙重的
+1505,doubt,懷疑
+1506,doughnut,甜甜圈
+1507,dragon,龍(中國神話)
+1508,drama,戲劇
+1509,drawer,抽屜
+1510,dresser,梳妝台
+1511,drop,掉下
+1512,drugstore,藥妝店
+1513,dryer,烘乾機 / 吹風機
+1514,dumb,愚笨的 沉默不語的
+1515,dumpling,水餃
+1516,during,在...期間
+1517,duty,責任 / 職務
+1518,eagle,老鷹
+1519,earn,(v) 賺錢 / 贏得
+1520,ease,使放鬆舒緩
+1521,Easter,復活節
+1522,edge,邊緣
+1523,education,(n) 教育
+1524,effort,盡力 努力
+1525,either,也不 (放句尾)
+1526,elder,年長的 / 長輩
+1527,elect,(v) 選舉 / 推選
+1528,elementary school,國小 / 小學
+1529,electric,電動的
+1530,else,其他 / 另外
+1531,embarrass,(v) 不好意思 窘迫
+1532,emotion,(n) 情緒
+1533,emphasize,(n) (v) 強調
+1534,employ,(v) 僱用
+1535,enemy,敵人
+1536,energy,(n) 活力 / 能量
+1537,engine,(n) 引擎
+1538,envelope,信封
+1539,environment,環境
+1540,envy,忌妒
+1541,equal,等於
+1542,error,錯誤
+1543,especially,特別地
+1544,eve,前夕
+1545,even,相等的 / 甚至
+1546,event,事件 / 大型活動
+1547,evil,邪惡的
+1548,exam,考試
+1549,excellent,優秀的 / 傑出的
+1550,exist,(v) 存在
+1551,expect,(v) 期待
+1552,experience,經驗
+1553,explain,(v) 解釋 說明
+1554,express,(v) 表達 / (n) 快遞
+1555,extra,額外的
+1556,fact,事實
+1557,factory,工廠
+1558,fail,(v) 失敗
+1559,fancy,華麗的
+1560,fantastic,好極了
+1561,fashionable,流行的 / 時髦的
+1562,faucet,水龍頭
+1563,fault,錯誤
+1564,fear,(n) 恐懼
+1565,fee,費用
+1566,feeling,感覺 感受 名詞
+1567,female,女性
+1568,fence,籬笆
+1569,fill,(v) 使充滿 / 裝滿
+1570,film,底片 / 電影
+1571,fisherman,漁夫
+1572,fit,使 合適
+1573,flag,旗幟
+1574,flat tire,爆胎
+1575,flight,飛行 / 飛機班次
+1576,flour,麵粉
+1577,flu,流行性感冒
+1578,flute,笛子 豎笛
+1579,focus,(v) 專注 (n) 焦點
+1580,fog,霧
+1581,foggy,霧茫茫的
+1582,fool,愚人 / 傻子
+1583,foolish,愚蠢的
+1584,foreign,外國的
+1585,forgive,原諒
+1586,form,(n) 形式 / 形狀 (v) 成形
+1587,formal,正式的
+1588,former,早前的
+1589,forward,向前地
+1590,frank,坦白的
+1591,freedom,(n) 自由
+1592,freezer,冰箱 / 冷藏箱
+1593,freezing,冷凍的
+1594,friendship,友誼
+1595,frighten,使...害怕
+1596,frisbee,飛盤
+1597,furniture,家具
+1598,gain,(v) 獲得
+1599,garage,車庫
+1600,gas,瓦斯
+1601,gate,大門 / 登機門
+1602,gather,(v) 使...聚集
+1603,general,一般的
+1604,generous,慷慨的
+1605,genius,天才
+1606,gentle,溫和的
+1607,gentleman,紳士
+1608,geography,地理學
+1609,gesture,姿勢
+1610,ghost,鬼魂
+1611,giant,巨大的
+1612,goal,目標
+1613,God,神
+1614,gold,黃金
+1615,gol den,金色的
+1616,gondola,義大利平底小船
+1617,goodness,良善 美德 我的天
+1618,government,政府
+1619,granddaughter,孫女
+1620,grandson,孫子
+1621,greedy,貪婪的
+1622,greet,打招呼
+1623,grow,長大
+1624,guard,警衛
+1625,guest,客人
+1626,guide,(v) 指導 / (n) 導遊
+1627,guitar,吉他
+1628,guy,人(口語) / 小夥子
+1629,gym,體育館 / 體操
+1630,hair dresser,美髮師
+1631,hall,會堂大廳 / 走廊
+1632,Halloween,萬聖節
+1633,hammer,鎚子
+1634,handkerchief,手帕
+1635,handle,方向盤 / 操作
+1636,handsome,英俊的
+1637,hang,(v) 把...掛起來
+1638,hanger,衣架
+1639,hardly,幾乎不
+1640,hard working,努力工作的
+1641,hate,討厭
+1642,health,健康
+1643,heat,高溫
+1644,heater,暖氣機
+1645,height,高度 / 海拔
+1646,helicopter,直升機
+1647,hero,英雄
+1648,hey,嗨 (同輩打招呼)
+1649,hi,嗨
+1650,hide,躲藏
+1651,highway,公路
+1652,hip,臀部
+1653,hippopotamus,河馬
+1654,hire,僱用 / 租借
+1655,history,歷史
+1656,hole,洞
+1657,homesick,思鄉病的
+1658,honesty,(n) 誠實
+1659,hop,單腳跳
+1660,horrible,令人毛骨悚 然的
+1661,host,主人 / 主持人
+1662,however,然而
+1663,hug,擁抱
+1664,human,人類
+1665,humble,(adj) 謙卑 / (v) 使...謙卑
+1666,humid,潮溼的
+1667,humor,幽默感
+1668,humorous,幽默的
+1669,hunger,飢餓
+1670,hunter,獵人
+1671,ice skate,滑冰
+1672,ignore,忽視
+1673,imagine,想像
+1674,impolite,不禮貌的
+1675,importance,(n) 重要
+1676,impossible,不可能的
+1677,improve,(v) 改善
+1678,inch,英吋
+1679,include,包括
+1680,income,收入
+1681,increase,增加
+1682,independent,(adj) 獨立的
+1683,indicate,指出
+1684,influence,( n) 影響
+1685,information,資訊
+1686,in-line skate,直排輪 (i..... s....)
+1687,inside,在...之內
+1688,insist,(v) 堅持
+1689,inspire,(v) 啟發
+1690,instant,立即的
+1691,instrument,器具 / 樂器
+1692,intelligent,有才智的
+1693,international,國際性的
+1694,interrupt,(v) 打斷 談話
+1695,interview,(v)(n) 面試
+1696,invent,(v) 發明
+1697,invitation,(n) 邀請
+1698,invite,(v) 邀請
+1699,jazz,爵士樂
+1700,jealous,忌妒的
+1701,jog,慢跑
+1702,joke,笑話 / 開玩笑
+1703,journalist,新聞記者
+1704,joy,歡樂
+1705,judge,(v) 審判 / (n) 裁判 / 法官
+1706,junior high school,國民中學
+1707,just,只是
+1708,ketchup,番茄醬
+1709,kick,踢
+1710,kill,殺 / 消滅
+1711,kindergarten,幼稚園
+1712,kingdom,王國 / 國度
+1713,kiss,吻
+1714,kitten,小貓 / 貓仔
+1715,knock,敲
+1716,knowledge,知識
+1717,lack,缺少
+1718,lady,淑女
+1719,lantern,燈籠
+1720,later,後來 / 較晚地
+1721,latest,最近的 / 最新的
+1722,latter,後者的
+1723,law,法律
+1724,lawyer,律師
+1725,lay,下蛋
+1726,lead,(v) 領導 引導
+1727,leader,領導者
+1728,least,最少的 / 最小的
+1729,less,較少的 / 較小的
+1730,lettuce,萵苣
+1731,level,程度 / 層級
+1732,lick,舔
+1733,lid,蓋子 / 眼瞼
+1734,lie,躺 / 撒謊
+1735,lift,(v) 舉起 / (n) 電梯 (英式英語)
+1736,lightning,閃電
+1737,likely,很可能的
+1738,limit,限制
+1739,link,聯繫
+1740,lip,嘴唇
+1741,liquid,液體
+1742,liter,公升
+1743,loaf,條 (吐司麵包)
+1744,lock,鎖
+1745,locker,衣物櫃
+1746,lonely,寂寞的
+1747,love,愛
+1748,lovely,可愛的
+1749,ma'am,女士 / 夫人 (比較短的拼法源自法文)
+1750,machine,機器
+1751,magician,魔術師
+1752,mailman,郵差
+1753,main,主要的
+1754,major,大多數的 / 主修
+1755,male,男性
+1756,mall,購物中心
+1757,manager,經理
+1758,manner,方法 / 禮貌
+1759,marry,和...結婚
+1760,married,已婚的
+1761,marvelous,驚奇非凡的
+1762,mass,大眾
+1763,master,主人
+1764,mat,腳踏墊
+1765,match,和...配對
+1766,maximum,最大量
+1767,measure,測量
+1768,mechanic,機械工 技工
+1769,medicine,藥
+1770,medium,(adj) 中間的(尺寸) (n) 媒介
+1771,meeting,會議
+1772,member,成員 / 會員
+1773,memory,記憶 / 記憶力
+1774,men's room,男廁
+1775,message,口信 / 訊息
+1776,method,方法
+1777,microwave,微波爐
+1778,middle,中間的
+1779,midnight,午夜
+1780,mile,英哩
+1781,mind,想法 / 主意
+1782,minor,次要的
+1783,minus,減去
+1784,mix,混合
+1785,modern,現代的
+1786,moment,片刻
+1787,mop,拖把
+1788,mosquito,蚊子
+1789,motion,動作
+1790,motorcycle,摩托車
+1791,movement,(社會)運動
+1792,Ms.,...女士(縮寫)
+1793,mud,泥巴
+1794,nail,釘子 / 指甲
+1795,napkin,紙巾
+1796,nation,國家 / 國民
+1797,national,國家的
+1798,natural,自然的
+1799,naughty,頑皮的
+1800,nearly,幾乎
+1801,necessary,必要的
+1802,needle,針
+1803,negative,(adj) 否定的 / 負面的 / 陰性的
+1804,neither,兩者都不 也...不 (放句尾)
+1805,nephew,姪子 / 外甥
+1806,nest,巢穴
+1807,nice-looking,好看的外表
+1808,niece,姪女 / 外甥女
+1809,nod,點頭
+1810,noise,喧鬧聲 / 噪音
+1811,none,一點也沒有
+1812,note,筆記 / 音符
+1813,notice,(v) 注意到 / (n) 通知
+1814,novel,小說
+1815,obey,順服
+1816,object,物體
+1817,off,從...掉下
+1818,offer,提供
+1819,oil,油
+1820,omit,省略
+1821,once,一次(頻率次數)
+1822,oneself,自己 / 自身
+1823,operation,(n) 手術 / 運作
+1824,opinion,意見
+1825,ordinary,平常的
+1826,outside,在外面
+1827,overpass,人行陸橋
+1828,overseas,海外的
+1829,over weight,超重的
+1830,owner,擁有者
+1831,ox,公牛
+1832,package,包裹
+1833,pain,痛苦
+1834,painful,痛苦的
+1835,pajamas,睡衣
+1836,pale,蒼白的
+1837,pardon,寬恕 請再說一遍
+1838,parking lot,停車場
+1839,partner,夥伴 / 合夥人
+1840,passenger,乘客
+1841,paste,(v) 黏貼 / (n) 麵糊 漿糊
+1842,path,小路 / 小徑
+1843,pattern,格式 / 花樣
+1844,pause,暫停
+1845,physical education,體育課
+1846,peace,和平
+1847,peaceful,和平的
+1848,perfect,完美的
+1849,period,期間 / 句點
+1850,personal,私人的
+1851,physics,物理學
+1852,pigeon,鴿子
+1853,pile,(一)堆
+1854,pillow,枕頭
+1855,pin,別針
+1856,pipe,導管 / 笛子
+1857,planet,星球
+1858,platform,月台
+1859,pleasant,愉悅的
+1860,please,(v) 使高興
+1861,pleased,(adj) 滿意的
+1862,pleasure,(n) 愉快 我的榮幸
+1863,plus,加上(數學)
+1864,poem,詩
+1865,poison,毒藥
+1866,pollute,(v) 使...污染
+1867,pollution,(n) 污染
+1868,pop music,流行音樂
+1869,population,人口
+1870,position,位置
+1871,positive,肯定 / 正面的 / 陽極
+1872,postcard,明信片
+1873,pound,磅
+1874,powder,粉末
+1875,power,力量
+1876,praise,(v)(n) 讚美
+1877,pray,(v) 禱告
+1878,precious,珍貴的
+1879,president,總統 / 總裁
+1880,pressure,壓力
+1881,priest,祭司 / 神父
+1882,primary,首要的 / 初級的
+1883,principal,校長 / 主要的
+1884,principle,原則
+1885,print,(v) 列印
+1886,printer,印表機
+1887,probably,很可能地
+1888,produce,(v) 生產製造
+1889,production,(n) 生產
+1890,professor,教授
+1891,program,節目
+1892,progress,(n) 進步
+1893,project,專案 / 企劃案
+1894,promise,承諾
+1895,pronounce,(v) 發...的音
+1896,protect,保護
+1897,provide,提供 / 供給
+1898,public,公眾的
+1899,pump,幫浦 / 打氣唧筒
+1900,punish,處罰
+1901,puppy,小狗 / 小狗仔
+1902,purpose,目的
+1903,purse,錢包
+1904,quit,放棄
+1905,quite,相當
+1906,railroad,鐵路
+1907,rainbow,彩虹
+1908,raise,舉 / 抬
+1909,rat,鼠輩
+1910,rather,寧可
+1911,reach,達到 / 伸及
+1912,realize,明白了解
+1913,reason,原因
+1914,receive,收到 / 接到
+1915,record,記錄 / 唱片
+1916,recorder,錄音師 錄音機
+1917,recover,恢復
+1918,refuse,拒絕
+1919,regret,後悔
+1920,regular,定期的 一般的
+1921,reject,抵制 / 反駁
+1922,relative,(n) 親戚 / (adj) 相關的
+1923,remind,提醒
+1924,rent,出租
+1925,repair,修理
+1926,responsible,負責任的
+1927,result,(n)(v) 結果
+1928,revise,修訂改編
+1929,rise,上升 昇起 太陽
+1930,rob,搶劫
+1931,role,角色
+1932,roll,滾動
+1933,roller skate,四輪溜冰 (傳統式)
+1934,roof,屋頂
+1935,rope,繩索
+1936,rose,玫瑰花
+1937,row,(v) 搖(船) / (n) 行 列
+1938,rub,使...摩擦
+1939,rubber,橡膠
+1940,rude,無禮的
+1941,ruin,毀壞
+1942,rush,倉促 匆忙
+1943,safety,安全性
+1944,sailor,水手
+1945,sample,樣本
+1946,satisfy,使 滿意
+1947,saucer,醬料碟
+1948,scene,場幕(戲劇) / 佈景
+1949,scenery,風景
+1950,scooter,速可達 機車
+1951,screen,螢幕
+1952,search,(v)(n) 搜尋 / 搜身
+1953,secondary,第二的 / 中等的
+1954,secretary,秘書
+1955,section,段 / 節
+1956,seek,尋找
+1957,seem,似乎
+1958,seesaw,蹺蹺板
+1959,select,挑選
+1960,sell,賣
+1961,semester,學期
+1962,senior high school,高中
+1963,sense,感官 / 見識
+1964,servant,僕人
+1965,shake,搖動 / 握手
+1966,shall,應該
+1967,sheet,單張紙 / 被單
+1968,shelf,架子 擱板
+1969,shine,發光
+1970,shoot,發射
+1971,shore,岸邊
+1972,shrimp,蝦
+1973,shut,關上
+1974,sidewalk,人行道
+1975,sight,視覺視力
+1976,silence,沉默
+1977,silent,安靜的
+1978,silly,傻呼呼的
+1979,silver,銀色
+1980,similar,相似的
+1981,simple,簡單的
+1982,sincere,真誠的
+1983,single,單身 / 單個(數)
+1984,sir,長官
+1985,skillful,有技巧的 / 熟練的
+1986,skinny,瘦巴巴的
+1987,slender,瘦長的
+1988,slice,(一)片
+1989,slide,溜滑梯
+1990,slim,纖瘦的
+1991,smoke,抽煙
+1992,sneaky,鬼鬼祟祟的
+1993,snowman,雪人
+1994,society,社會
+1995,soft drink,清涼飲料
+1996,softball,壘球
+1997,soldier,軍人
+1998,solve,解決
+1999,sore,痛的 發炎的(喉嚨)
+2000,soul,靈魂
+2001,sour,酸的
+2002,soy sauce,醬油
+2003,speaker,演說者 / 擴音器
+2004,speech,演講
+2005,speed,速度
+2006,spirit,精神 / 心靈
+2007,spot,斑點 / 聚光燈
+2008,spread,塗開 / 散佈
+2009,state,州 美國
+2010,stationery,文具
+2011,steal,偷竊
+2012,steam,蒸汽
+2013,step,腳步
+2014,stingy,吝嗇小氣的
+2015,strange,奇怪的
+2016,stranger,陌生人
+2017,stream,溪流
+2018,stupid,愚笨的
+2019,style,風格
+2020,succeed,(v) 成功(做了...)
+2021,success,(n) 成功
+2022,successful,成功的
+2023,such,這樣的
+2024,sudden,突然的
+2025,suddenly,(adv) 突然地
+2026,super,超級的
+2027,supper,晚餐
+2028,support,支持
+2029,survive,生存
+2030,swallow,吞下
+2031,swan,天鵝
+2032,sweep,清掃
+2033,swing,鞦韆 / 搖盪
+2034,symbol,象徵 / 符號
+2035,system,系統
+2036,talent,天份 / 才藝
+2037,talkative,愛說話的
+2038,tangerine,橘子(t........)
+2039,tank,坦克車
+2040,teapot,茶壺
+2041,tear,(n) 眼淚 / (v) 撕裂
+2042,teenager,青少年
+2043,temperature,溫度
+2044,temple,寺廟
+2045,term,學期 /(專有)名稱
+2046,terrible,糟糕的
+2047,terrific,非常好的
+2048,Thanksgiving,感恩節
+2049,therefore,因此
+2050,thief,小偷
+2051,throat,喉嚨
+2052,thumb,拇指
+2053,thunder,閃電
+2054,tiny,小的
+2055,tip,提示 / 小費
+2056,title,標題
+2057,toast,吐司 / 烤
+2058,tofu,豆腐
+2059,tongue,舌頭
+2060,tool,工具
+2061,toothache,牙痛
+2062,topic,主題
+2063,total,總數
+2064,toward,朝...向
+2065,tower,高塔
+2066,trace,描寫 / 追蹤
+2067,trade,交易 / 貿易
+2068,tradition,傳統
+2069,traditional,傳統的
+2070,trap,陷阱 / 使困住
+2071,treasure,寶藏
+2072,treat,請客 / 款待
+2073,trick,惡作劇
+2074,trouble,麻煩
+2075,trousers,西裝褲(t.......)
+2076,trumpet,小喇叭
+2077,trust,信任
+2078,truth,真相
+2079,tube,軟管 管狀物
+2080,tunnel,隧道
+2081,twice,兩次(指頻率性)
+2082,underline,在...畫底線
+2083,underpass,地下道
+2084,unhappy,不愉快的
+2085,unique,獨特的
+2086,universe,宇宙
+2087,university,大學
+2088,upon,在...上面
+2089,upper,上層的(位置)
+2090,Valentine,西洋情人節
+2091,valley,山谷
+2092,valuable,有價值的
+2093,value,價值
+2094,vendor,小販
+2095,victory,勝利
+2096,village,村落 / 村莊
+2097,vinegar,醋
+2098,voice,聲音
+2099,vote,投票 / 表決
+2100,waist,腰部
+2101,waitress,女服務生
+2102,war,戰爭
+2103,waste,浪費
+2104,waterfalls,瀑布
+2105,wave,海浪 / 揮手
+2106,wedding,婚禮
+2107,weekday,週間
+2108,wheel,輪胎
+2109,whether,是否
+2110,while,當...的時候
+2111,wise,聰明的
+2112,wok,炒菜鍋
+2113,women's room,女廁
+2114,wonderful,極好的
+2115,wood,木頭
+2116,worm,蠕蟲
+2117,wound,傷口 / 使受傷
+2118,wrist,手腕
+2119,yard,庭院
+2120,yell,喊 / 吼
+2121,yes,是
+2122,not yet,還（沒）
+2123,youth,青年
