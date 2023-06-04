@@ -12,7 +12,7 @@
 12,son,兒子
 13,daughter,女兒
 14,parent,雙親之一
-15,grand parent,祖父母 / 外祖父母 (單數)
+15,grandparent,祖父母 / 外祖父母 (單數)
 16,baby,嬰兒
 17,child,小孩
 18,husband,丈夫
@@ -130,7 +130,7 @@
 130,careless,不小心的
 131,useful,有用的
 132,confident,有信心的
-133,patient, 有耐心的 / (n) 病人
+133,patient,有耐心的 / (n) 病人
 134,proud,驕傲的 / 得意的
 135,friendly,友善的 親切的
 136,energentic,精力充沛的
@@ -162,17 +162,17 @@
 162,ask,詢問 請求
 163,answer,(v)(n) 回 答
 164,laugh,笑 嘲笑
-165,smile, (v)(n) 微笑
+165,smile,(v)(n) 微笑
 166,teach,教
 167,suggest,建議
 168,suggestion,(n) 建議
 169,bring,帶來
 170,take,帶 搭交通工具
-171,catch ,抓住 趕上
+171,catch,抓住 趕上
 172,hold,握住 保持
 173,miss,想念
 174,miss,東西不見 錯過
-175,carry,攜帶 搬 運
+175,carry,攜帶 搬運
 176,call,打電話 / 叫
 177,cancel,取消
 178,choose,選擇
@@ -213,7 +213,7 @@
 213,send,寄送 派遣
 214,pour,倒水
 215,order,點餐 訂購
-216,sound, 聽起來
+216,sound,聽起來
 217,taste,嚐起來 / (n) 味道
 218,feel,感覺起來
 219,smell,聞 / 嗅
@@ -284,7 +284,7 @@
 284,mouth,嘴巴
 285,nose,鼻子
 286,hair,頭髮
-287,straight hair, 直髮
+287,straight hair,直髮
 288,curly,捲髮
 289,wavy,波浪捲髮
 290,blond,金髮
@@ -305,7 +305,7 @@
 305,tooth,牙齒
 306,beard,鬍子 絡腮鬍
 307,fever,發燒
-308,old,感冒 / (adj) 冷的
+308,cold,感冒 / (adj) 冷的
 309,headache,頭痛
 310,stomachache,胃痛
 311,stomach,胃
@@ -341,7 +341,7 @@
 341,belt,皮帶
 342,dress,洋裝
 343,shirt,襯衫
-344,T-shirtm,T恤
+344,T-shirt,T恤
 345,skirt,裙子
 346,towel,毛巾
 347,coat,外套
@@ -379,7 +379,7 @@
 379,shopkeeper,店員
 380,businessman,商人
 381,painter,畫家 / 油漆工
-382,paint, (v) 畫畫 / 油漆 (n) 顏料
+382,paint,(v) 畫畫 / 油漆 (n) 顏料
 383,farmer,農夫
 384,farm,農場
 385,designer,設計師
@@ -697,7 +697,7 @@
 697,pink,(adj) 粉紅色的
 698,red,(adj) 紅色的
 699,black,(adj) 黑色的
-700,or ange,(adj) 橘色的
+700,orange,(adj) 橘色的
 701,purple,(adj) 紫色的
 702,green,(adj) 綠色的
 703,yellow,(adj) 黃色的
@@ -1039,7 +1039,7 @@
 1039,noon,中午
 1040,afternoon,下午
 1041,evening,傍晚
-1042,ni ght,夜晚
+1042,night,夜晚
 1043,tonight,今晚
 1044,overnight,過夜
 1045,weekend,周末
@@ -1205,9 +1205,9 @@
 1205,only,(adj) 唯一的
 1206,away,離開地
 1207,hello,哈囉
-1208,good bye,再見
+1208,goodbye,再見
 1209,a.m.,上午 (....)
-1210,p.m,下午 (....)
+1210,p.m.,下午 (....)
 1211,Mr.,先生(縮寫)
 1212,Mrs.,太太(縮寫)
 1213,Miss,小姐(M...)
@@ -1612,7 +1612,7 @@
 1612,goal,目標
 1613,God,神
 1614,gold,黃金
-1615,gol den,金色的
+1615,golden,金色的
 1616,gondola,義大利平底小船
 1617,goodness,良善 美德 我的天
 1618,government,政府
@@ -1657,7 +1657,7 @@
 1657,homesick,思鄉病的
 1658,honesty,(n) 誠實
 1659,hop,單腳跳
-1660,horrible,令人毛骨悚 然的
+1660,horrible,令人毛骨悚然的
 1661,host,主人 / 主持人
 1662,however,然而
 1663,hug,擁抱
@@ -1681,7 +1681,7 @@
 1681,increase,增加
 1682,independent,(adj) 獨立的
 1683,indicate,指出
-1684,influence,( n) 影響
+1684,influence,(n) 影響
 1685,information,資訊
 1686,in-line skate,直排輪 (i..... s....)
 1687,inside,在...之內
@@ -1691,7 +1691,7 @@
 1691,instrument,器具 / 樂器
 1692,intelligent,有才智的
 1693,international,國際性的
-1694,interrupt,(v) 打斷 談話
+1694,interrupt,(v) 打斷談話
 1695,interview,(v)(n) 面試
 1696,invent,(v) 發明
 1697,invitation,(n) 邀請
