@@ -55,6 +55,8 @@ void draw() {
 //  }else bShowAns=true;
 //}
 void keyPressed() {
+  if (key=='!') line+=key;
+  if (key=='/') line+=key;
   if (key=='\'') line+=key;
   if (key=='.') line+=key;
   if (key=='-') line+=key;
